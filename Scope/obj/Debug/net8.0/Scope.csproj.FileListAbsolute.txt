@@ -1,0 +1,14 @@
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\bin\Debug\net8.0\Scope.exe
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\bin\Debug\net8.0\Scope.deps.json
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\bin\Debug\net8.0\Scope.runtimeconfig.json
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\bin\Debug\net8.0\Scope.dll
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\bin\Debug\net8.0\Scope.pdb
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.AssemblyInfoInputs.cache
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.AssemblyInfo.cs
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.csproj.CoreCompileInputs.cache
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.dll
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\refint\Scope.dll
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.pdb
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\Scope.genruntimeconfig.cache
+C:\Users\84365\Documents\GitHub\test2\MyFifthCSharpApp\Scope\obj\Debug\net8.0\ref\Scope.dll
